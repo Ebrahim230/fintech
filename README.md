@@ -1,6 +1,6 @@
 # FinTech Application
 
-A full-stack **FinTech web application** built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js). This application allows users to manage their accounts, perform deposits and withdrawals, and view analytics via an Admin Dashboard. The project is designed for modern financial management and provides a responsive and user-friendly interface.
+A full-stack FinTech web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). This application allows users to manage their accounts, perform deposits and withdrawals, and view analytics via an Admin Dashboard. The project is designed for modern financial management and provides a responsive and user-friendly interface. Currently, account numbers are generated using the Math.random() method, but for larger-scale or security-sensitive applications, crypto can be used to generate secure and unpredictable account numbers.
 
 ---
 
